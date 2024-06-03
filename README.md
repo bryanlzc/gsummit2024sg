@@ -1,6 +1,6 @@
-# Graph Summit 2023 EMEA - Workshop Digital Twin
+# Graph Summit 2024 SG - Workshop Digital Twin
 
-This repository contains the material used during the **Graph Summit 2023 - Building a Graph Solution Workshops**. 
+This repository contains the material used during the **Graph Summit Singapore 2024 - Building a Graph Solution Workshops**. 
 
 The aim of the workshop is to provide a structured way to build a small Digital Twin Knowledge Graph. It answers questions from a business perspective and discusses how a Digital Twin graph could be extended for more insights and values.
 
